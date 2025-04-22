@@ -52,23 +52,23 @@ Place your resumes inside the /Data/extract/ folder to start testing or building
 
 🖼 Sample Outputs
 
+![ui_preview](https://github.com/user-attachments/assets/0c5ff5da-c07a-4631-bbda-63d63bd309c8)
+![run_log](https://github.com/user-attachments/assets/1056cacf-6e3f-4cc2-bb26-d9a92a4f6744)
+
+
 Streamlit UI	Terminal Logs
 📚 Problem Statement
 See Problem-Statment.docx for detailed business goals, timeline, and delivery protocols.
 
 📦 Tech Stack
-Python, Jupyter Notebook
-
+Python,
+Jupyter Notebook
 Streamlit
-
 Scikit-learn
-
 WordCloud, Matplotlib
-
 PyPDF2, python-docx, win32com (for DOC parsing)
 
 👨‍💻 Author
 Surya Bhaskar
-Project 397 – Resume Classification
-Made with ❤️ and Machine Learning "
+Made with ❤️ and Machine Learning 
 
