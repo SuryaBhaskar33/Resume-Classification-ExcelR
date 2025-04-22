@@ -45,3 +45,30 @@ Resume-Classification/
 └── environment.yml                   # Conda environment file
 
 
+
+
+📁 Add Your Resumes
+Place your resumes inside the /Data/extract/ folder to start testing or building your dataset.
+
+🖼 Sample Outputs
+
+Streamlit UI	Terminal Logs
+📚 Problem Statement
+See Problem-Statment.docx for detailed business goals, timeline, and delivery protocols.
+
+📦 Tech Stack
+Python, Jupyter Notebook
+
+Streamlit
+
+Scikit-learn
+
+WordCloud, Matplotlib
+
+PyPDF2, python-docx, win32com (for DOC parsing)
+
+👨‍💻 Author
+Surya Bhaskar
+Project 397 – Resume Classification
+Made with ❤️ and Machine Learning "
+
