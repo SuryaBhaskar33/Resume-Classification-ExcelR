@@ -1,0 +1,14 @@
+name: resume-classification
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - streamlit
+  - scikit-learn
+  - joblib
+  - matplotlib
+  - wordcloud
+  - PyPDF2
+  - python-docx
+  - pywin32
