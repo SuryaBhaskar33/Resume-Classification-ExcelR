@@ -63,7 +63,7 @@ Place your resumes inside the /Data/extract/ folder to start testing or building
 
 ## 📚 Problem Statement
 
-- **See Problem-Statment.docx for detailed business goals, timeline, and delivery protocols.
+- See Problem-Statment.docx for detailed business goals, timeline, and delivery protocols.
 
 ## 📦 Tech Stack
 
