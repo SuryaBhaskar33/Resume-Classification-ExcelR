@@ -1,5 +1,3 @@
-# Re-generate the README.md file
-readme_content = """# 📄 Resume Classification App – ML Project
 
 This project is an end-to-end machine learning application that classifies resumes into job categories such as Data Scientist, SQL Developer, HR, etc. Built using NLP techniques and an SVM classifier, it automates the resume screening process to reduce manual HR effort. The app is deployed with a user-friendly Streamlit interface.
 
