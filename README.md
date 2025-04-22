@@ -65,14 +65,14 @@ Place your resumes inside the /Data/extract/ folder to start testing or building
 See Problem-Statment.docx for detailed business goals, timeline, and delivery protocols.
 
 ## 📦 Tech Stack
-   -Python
-   -Jupyter Notebook
-  -Streamlit
-  -Scikit-learn
-  -WordCloud, Matplotlib
-  -PyPDF2, python-docx, win32com (for DOC parsing)
 
-👨‍💻 Author
-Surya Bhaskar
-Made with ❤️ and Machine Learning 
+- **Language:** Python, Jupyter Notebook
+- **Frameworks:** Streamlit, Scikit-learn
+- **Libraries:** WordCloud, Matplotlib, PyPDF2, python-docx, win32com (for DOC parsing)
+
+
+## 👤 Author
+
+**Surya Bhaskar**  
+Made with ❤️ and Machine Learning
 
