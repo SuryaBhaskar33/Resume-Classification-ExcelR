@@ -19,12 +19,29 @@ To automate and optimize the resume classification process within HR Management 
 ---
 
 ## 🗂 Folder Structure
-
 Resume-Classification/
 ├── app/
-    │ ├── resume_classifier_app.py # Streamlit app │
-└── models/ 
-│ ── svm_model.pkl │
+│   ├── resume_classifier_app.py       # Streamlit application
+│
+├── models/
+│   ├── svm_model.pkl                  # Trained SVM model
+│   └── vectorizer.pkl                 # TF-IDF vectorizer
+│
+├── Data/
+│   ├── R-Zip/                         # Original zipped resumes
+│   ├── extract/                       # Extracted resume files
+│   └── resume.csv                     # Final structured dataset
+│
+├── notebooks/
+│   └── model_training.ipynb          # Model training & EDA notebook
+│
+├── assets/
+│   ├── ui_preview.png                # Screenshot of Streamlit UI
+│   └── run_log.png                   # CMD output example
+│
+├── Problem-Statment.docx             # Business overview and phases
+├── README.md                         # Project documentation
+├── requirements.txt                  # Python package requirements
+└── environment.yml                   # Conda environment file
 
- └── vectorizer.pkl │
-├── Data/ │ ├── R-Zip/ # Zipped raw resumes │ ├── extract/ # Extracted resumes │ └── resume.csv # Structured dataset │ ├── notebooks/ │ └── model_training.ipynb # SVM + TF-IDF model building │ ├── assets/ │ ├── ui_preview.png # Screenshot of the app │ ├── run_log.png # CMD output │ ├── Problem-Statment.docx # Business overview and plan ├── README.md # Project overview (this file) ├── requirements.txt # Required packages ├── environment.yml # Conda environment setup
+
